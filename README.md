@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew Parks</h1>
 <h3 align="center">A true work horse</h3>
 
-- 🌱 I’m currently learning **SocketIO, 4Players Voice Chat, AWS**
-
-- 💬 Ask me about **react, javascript, python, redux, OOP, SQL, Flask, Express**
-
 - 📫 How to reach me **andrew.parks@tutanota.com**
 
 <h3 align="left">Connect with me:</h3>
